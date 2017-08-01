@@ -14,10 +14,6 @@ public class Player {
                 return new Paper();
             case Preferences.SCISSORS_ID:
                 return new Scissors();
-            case Preferences.SOMETHING_NEW_ID:
-                return new Scissors();
-            case  Preferences.LIZARD_ID:
-                return new Lizard();
             default:
                 return new Paper();
         }

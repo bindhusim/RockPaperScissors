@@ -1,3 +1,5 @@
+Scenarios that can be automated to reduce manual effort which later turns out to be part of regression pack
+
 Feature: RockPaperScissors Game Integration Test Scenarios
 
 ScenarioOutline: Test all possible combinations for rock vs paper, rock , scissors provided players are computer vs user/user vs computer

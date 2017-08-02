@@ -1,3 +1,10 @@
+Assumptions:
+
+
+Apart from integration test cases written exloratory testing can be done randomly by checking various possible combination of options and players
+but for this code its assumed to be 2 players
+
+
 
 
 
